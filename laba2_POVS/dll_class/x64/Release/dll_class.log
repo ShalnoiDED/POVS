@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\dll_class\Header.h(21,17): warning C4251: AsciiDocEditor::content: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "AsciiDocEditor"
+  (компиляция исходного файла "Source.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+     Создается библиотека C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\x64\Release\dll_class.lib и объект C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\x64\Release\dll_class.exp
+  Создание кода
+  3 of 858 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  dll_class.vcxproj -> C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\x64\Release\dll_class.dll

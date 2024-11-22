@@ -1,0 +1,25 @@
+﻿  Source.cpp
+C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\dll_file\Header.h(5,74): warning C4190: для "ReadFile" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+  (компиляция исходного файла "Source.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\dll_file\Source.cpp(3,62): warning C4190: для "ReadFile" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\dll_file\Source.cpp(6,3): warning C4297: ReadFile: ожидается, что функция не будет выдавать исключения, но она это делает
+  C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\dll_file\Source.cpp(6,3):
+  Функция типа extern "C", указан параметр /EHc
+  
+C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\dll_file\Source.cpp(10,3): warning C4297: ReadFile: ожидается, что функция не будет выдавать исключения, но она это делает
+  C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\dll_file\Source.cpp(10,3):
+  Функция типа extern "C", указан параметр /EHc
+  
+     Создается библиотека C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\x64\Release\dll_file.lib и объект C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\x64\Release\dll_file.exp
+  Создание кода
+  1 of 172 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  dll_file.vcxproj -> C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\x64\Release\dll_file.dll

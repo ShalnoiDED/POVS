@@ -1,0 +1,16 @@
+= Level 1 Heading
+
+This is a regular paragraph of text. There's nothing special about it.
+
+== Level 2 Heading
+
+This is another paragraph, but now with *bold text*. The text can span multiple lines and still be considered part of the same paragraph.
+
+=== Level 3 Heading
+
+*Bold text* can be used anywhere within the line.
+Paragraphs are separated by empty lines.
+
+= Another Level 1 Heading
+
+Here's another paragraph with *bold text*.

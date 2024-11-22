@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5345B127-AE5E-4D5F-8460-3754C56C8C30}|dll_file\\dll_file.vcxproj|C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_file\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5345B127-AE5E-4D5F-8460-3754C56C8C30}|dll_file\\dll_file.vcxproj|solutionrelative:dll_file\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FAA50-179E-4A1E-8F3D-DB524F5350AD}|main\\main.vcxproj|C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\main\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{893FAA50-179E-4A1E-8F3D-DB524F5350AD}|main\\main.vcxproj|solutionrelative:main\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D63C43A-15EC-45A4-9238-005E668A423B}|dll_class\\dll_class.vcxproj|C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_class\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D63C43A-15EC-45A4-9238-005E668A423B}|dll_class\\dll_class.vcxproj|solutionrelative:dll_class\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5345B127-AE5E-4D5F-8460-3754C56C8C30}|dll_file\\dll_file.vcxproj|C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_file\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5345B127-AE5E-4D5F-8460-3754C56C8C30}|dll_file\\dll_file.vcxproj|solutionrelative:dll_file\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D63C43A-15EC-45A4-9238-005E668A423B}|dll_class\\dll_class.vcxproj|C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_class\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D63C43A-15EC-45A4-9238-005E668A423B}|dll_class\\dll_class.vcxproj|solutionrelative:dll_class\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_class\\Source.cpp",
+              "RelativeDocumentMoniker": "dll_class\\Source.cpp",
+              "ToolTip": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_class\\Source.cpp",
+              "RelativeToolTip": "dll_class\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T06:57:35.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_file\\Header.h",
+              "RelativeDocumentMoniker": "dll_file\\Header.h",
+              "ToolTip": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_file\\Header.h",
+              "RelativeToolTip": "dll_file\\Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T06:57:36.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_file\\Source.cpp",
+              "RelativeDocumentMoniker": "dll_file\\Source.cpp",
+              "ToolTip": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_file\\Source.cpp",
+              "RelativeToolTip": "dll_file\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T06:57:36.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\main\\Source.cpp",
+              "RelativeDocumentMoniker": "main\\Source.cpp",
+              "ToolTip": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\main\\Source.cpp",
+              "RelativeToolTip": "main\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T06:57:36.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_class\\Header.h",
+              "RelativeDocumentMoniker": "dll_class\\Header.h",
+              "ToolTip": "C:\\VSE_OSTALNOE\\Ycheba\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u041E \u0412\u0421\\laba2_POVS\\dll_class\\Header.h",
+              "RelativeToolTip": "dll_class\\Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T06:59:58.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

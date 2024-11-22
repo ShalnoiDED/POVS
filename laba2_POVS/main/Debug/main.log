@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\dll_class\Header.h(21,17): warning C4251: AsciiDocEditor::content: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "AsciiDocEditor"
+  (компиляция исходного файла "Source.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\main\Source.cpp(25,6): warning C4551: в вызове функции отсутствует список аргументов
+  main.vcxproj -> C:\VSE_OSTALNOE\Ycheba\5 семестр\ПО ВС\laba2_POVS\Debug\main.exe
