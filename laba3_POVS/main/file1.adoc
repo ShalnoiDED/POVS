@@ -1,0 +1,8 @@
+This is a regular paragraph of text. There's nothing special about it.
+
+This is another paragraph, but now with *bold text*. The text can span multiple lines and still be considered part of the same paragraph.
+
+*Bold text* can be used anywhere within the line.
+Paragraphs are separated by empty lines.
+
+Here's another paragraph with *bold text*.

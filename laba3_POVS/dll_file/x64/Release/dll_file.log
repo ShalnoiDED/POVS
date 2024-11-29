@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\Hidesna\source\repos\ASCII-doc-parser\dll_file\Header.h(5,86): warning C4190: для "asdfjkasgfjkasdghfvb" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+  (компиляция исходного файла "Source.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5127,29):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\Hidesna\source\repos\ASCII-doc-parser\dll_file\Source.cpp(3,74): warning C4190: для "asdfjkasgfjkasdghfvb" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5127,29):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\Hidesna\source\repos\ASCII-doc-parser\dll_file\Source.cpp(6,3): warning C4297: asdfjkasgfjkasdghfvb: ожидается, что функция не будет выдавать исключения, но она это делает
+  C:\Users\Hidesna\source\repos\ASCII-doc-parser\dll_file\Source.cpp(6,3):
+  Функция типа extern "C", указан параметр /EHc
+  
+C:\Users\Hidesna\source\repos\ASCII-doc-parser\dll_file\Source.cpp(10,3): warning C4297: asdfjkasgfjkasdghfvb: ожидается, что функция не будет выдавать исключения, но она это делает
+  C:\Users\Hidesna\source\repos\ASCII-doc-parser\dll_file\Source.cpp(10,3):
+  Функция типа extern "C", указан параметр /EHc
+  
+     Создается библиотека C:\Users\Hidesna\source\repos\ASCII-doc-parser\x64\Release\dll_file.lib и объект C:\Users\Hidesna\source\repos\ASCII-doc-parser\x64\Release\dll_file.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  dll_file.vcxproj -> C:\Users\Hidesna\source\repos\ASCII-doc-parser\x64\Release\dll_file.dll
